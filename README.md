@@ -1,3 +1,3 @@
 # ghost-tank-battles
 tank game
-<img src="ghost-tank-battles/opening screen.JPG">
+<img src="https://github.com/boomb0y/ghost-tank-battles/blob/master/opening%20screen.JPG">
